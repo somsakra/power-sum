@@ -9,6 +9,6 @@ export const powerSum = (x, n, curr_num = 1, curr_sum = 0) => {
   if (p + curr_sum === x) {
     result++;
   }
-  // This is the return result
+  // This is comment on somsak branch
   return result;
 };
